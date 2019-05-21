@@ -11,5 +11,22 @@
     "recursive-readdir": "^2.2.2"
   },
   "author": "zxy",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "auto generate gitbook summary",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonz19/gitbook-summary-generator.git"
+  },
+  "keywords": [
+    "gitbook",
+    "summary"
+  ],
+  "bugs": {
+    "url": "https://github.com/simonz19/gitbook-summary-generator/issues"
+  },
+  "homepage": "https://github.com/simonz19/gitbook-summary-generator#readme"
 }
