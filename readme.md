@@ -46,11 +46,12 @@ It can also take a list of files to ignore.
 ```json
 {
   "gitbooksConfig": {
-    // ignore files names foo.md or ends with foo.md or files that in private dir
     "ignore": ["foo.md", "*foo.md", "private"]
   }
 }
 ```
+
+ignore files names foo.md or ends with foo.md or files that in private dir
 
 ### script
 
