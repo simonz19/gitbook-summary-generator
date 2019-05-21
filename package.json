@@ -1,0 +1,15 @@
+{
+  "name": "gitbook-summary-generator",
+  "version": "1.0.0",
+  "bin": {
+    "gitbooks": "./bin/gitbooks.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cross-spawn": "^6.0.5",
+    "prettier": "^1.16.4",
+    "recursive-readdir": "^2.2.2"
+  },
+  "author": "zxy",
+  "license": "MIT"
+}
